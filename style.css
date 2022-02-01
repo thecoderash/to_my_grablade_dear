@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: black;
+    overflow-y: hidden;
+}
+
+#hbd{
+    color: white;
+    font-family: monospace;
+    font-size: 100px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
