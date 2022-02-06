@@ -1,5 +1,5 @@
 var x = document.getElementById("hbd");
-var y = "happy birthday grayblade bitch";
+var y = "happy birthday grayblade";
 var i = 0;
 var m="";
 
